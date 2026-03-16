@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Meu Site</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <img class="imagem" src="https://pt.wallpapers.com/galaxia-rosa-e-roxa">
+
+    <h1>Olá Mundo!</h1>
+
+    <h2>Coisas que eu gosto</h2>
+
+    <ul>
+        <li>Filmes</li>
+        <li>Flores</li>
+        <li>Espaço</li>
+    </ul>
+
+</div>
+
+</body>
+</html>
